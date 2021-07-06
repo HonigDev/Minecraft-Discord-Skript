@@ -1,0 +1,8 @@
+# ----------------------- #
+#    Made by HonigDev     # 
+# ----------------------- #
+
+command /discord:
+	aliases: /server, /community, /dc
+	trigger:
+		send "&5[Your Server] &7Join <tooltip:&6Press here to join our &bDiscord &6Server ><link:https://discord.gg/yourdiscordlinkhere>&e &7our &bDiscord &7Server" to player
